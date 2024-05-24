@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculadora Geometria</string>
+    <string name="retangulo">Retângulo</string>
+    <string name="circulo">Círculo</string>
+    <string name="base">Base</string>
+    <string name="altura">Altura</string>
+    <string name="raio">Raio</string>
+    <string name="area">Área</string>
+    <string name="perimetro">Perímetro</string>
+    <string name="areac">Área do Círculo: </string>
+    <string name="perimetroc">Perímetro do Círculo:</string>
+    <string name="arear">Área do Retângulo:</string>
+    <string name="perimetror">Perímetro do Retângulo:</string>
+</resources>
